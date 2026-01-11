@@ -1,2 +1,6 @@
 ccxt
+pandas
+pandas_ta
+requests
+beautifulsoup4
 python-dotenv
